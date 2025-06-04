@@ -31,7 +31,7 @@ A modern, efficient, and user-friendly **Attendance Management System** designed
 
 ---
 
-## � Quick Start
+## � Quick Start.
 
 ### Prerequisites 
 - pip / npm  
