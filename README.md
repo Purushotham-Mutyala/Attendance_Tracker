@@ -25,17 +25,15 @@ A modern, efficient, and user-friendly **Attendance Management System** designed
 
 ## 🛠 Tech Stack
 
-- **Frontend**: HTML, CSS, JavaScript (or React/Vue.js if applicable)  
-- **Backend**: Python (Django/Flask) or Node.js (Express)  
-- **Database**: SQLite/MySQL/PostgreSQL  
-- **Deployment**: Docker, Heroku, or AWS (if applicable)  
+- **Frontend**: HTML, CSS, JavaScript 
+- **Backend**: java  
+- **Database**: Supabase  
 
 ---
 
 ## � Quick Start
 
-### Prerequisites
-- Python 3.8+ / Node.js  
+### Prerequisites 
 - pip / npm  
 
 ### Installation
